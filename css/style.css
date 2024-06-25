@@ -510,6 +510,9 @@ form .send-btn:hover{
     .navlist.active{
         right: 0;
     }
+    form .send-btn{
+        width: 50%;
+    }
 }
 
 @media (max-width: 680px) {
